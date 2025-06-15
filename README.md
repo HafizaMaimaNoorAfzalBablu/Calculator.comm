@@ -2,24 +2,26 @@ We are Code Syntaxers, a team of three passionate coders who came together to bu
 
 👩‍💻 Team Members:
 
-Hafiza Maima Noor – BITF24M012
+      Hafiza Maima Noor – BITF24M012
 
-Aqsa – BITF24M019
+      Aqsa – BITF24M019
 
-Emaan Fatima – BITF24M021
+     Emaan Fatima – BITF24M021
 
-Solves basic math: add, subtract, multiply, divide, modulus
+What does it do ?
 
-Handles advanced functions: square root, cube root, power, factorial
+    1: Solves basic math: add, subtract, multiply, divide, modulus
 
-Includes trigonometry and logarithm calculations
+    2: Handles advanced functions: square root, cube root, power, factorial
 
-Converts numbers: binary, decimal, octal, hexadecimal
+    3: Includes trigonometry and logarithm calculations
 
-Calculates BMI (Body Mass Index)
+    4: Converts numbers: binary, decimal, octal, hexadecimal
 
-Converts temperatures (Celsius, Fahrenheit, etc.)
+    5: Calculates BMI (Body Mass Index)
 
-Saves your calculation history in a text file
+    6: Converts temperatures (Celsius, Fahrenheit, etc.)
 
-Easy-to-use menu for smooth navigation
+    7:Saves your calculation history in a text file
+
+    8:Easy-to-use menu for smooth navigation
