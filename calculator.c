@@ -48,6 +48,10 @@ int main()
         printf("Enter choice:");
         int num;
         scanf("%d", &num);
+        if (num < 0 || num > 6)
+        {
+            printf("Invalid! choice Try Again\n");
+        }
         printf("\n");
         switch (num)
         {
