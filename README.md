@@ -14,14 +14,16 @@ What does it do ?
 
     2: Handles advanced functions: square root, cube root, power, factorial
 
-    3: Includes trigonometry and logarithm calculations
+    3: Includes trigonometry and logarithm calculations and Matrix Multiplication
+    
+    4:Calculates Complex number operations (+ - * /  sqrt ) etc
 
-    4: Converts numbers: binary, decimal, octal, hexadecimal
+    5: Converts numbers: binary, decimal, octal, hexadecimal
 
-    5: Calculates BMI (Body Mass Index)
+    6: Calculates BMI (Body Mass Index)
 
-    6: Converts temperatures (Celsius, Fahrenheit, etc.)
+    7: Converts temperatures (Celsius, Fahrenheit, etc.)
 
-    7:Saves your calculation history in a text file
+    8:Saves your calculation history in a text file
 
-    8:Easy-to-use menu for smooth navigation
+    9:Easy-to-use menu for smooth navigation
